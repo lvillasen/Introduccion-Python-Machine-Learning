@@ -5,6 +5,6 @@ Usa Jupyter Notebook.
 
 ## Modo de Uso
 
-Guardar el archivo MachineLearning.ipynb en el Drive de Google. Abrir dicho archivo desde un navegador con Google Colab.
+Guardar el archivo Machine_Learning.ipynb en el Drive de Google. Abrir dicho archivo desde un navegador con Google Colab.
    
 
